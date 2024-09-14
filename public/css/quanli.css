@@ -1,0 +1,34 @@
+.logoql{
+    margin-top: 80px;
+}
+.logoql img {
+    margin-top: -10px;
+    width: 300px;
+    margin-left: 50px;
+    float:left;
+}
+h1{
+    text-align: center;
+    /* margin-top: 40px; */
+    font-size: 50px;
+}
+.row{
+    margin-top:80px ;
+    margin-left: 110px;
+}
+.row .hinh {
+    position: relative;
+    width: 600px ;
+    margin-left: 10px;
+}
+.row img{
+    width: 100%;
+}
+.row .chu {
+    position: relative;
+    left: 90px;
+    
+}
+.chu .ttnguoiql{
+    margin-top: 80px;
+}

@@ -1,0 +1,48 @@
+.panel-heading .ha {
+    width: 200px; 
+    height:100px;
+}
+h1 {
+    font-size: 35px; 
+    text-align: center; 
+    margin-top: 10px;
+}
+.panel-heading .form-control {
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+    width:900px; 
+    margin-right: 
+    20px; height: 40px; 
+    border: 1px solid black;
+} 
+.panel-heading .sm {
+    height: 40px; 
+    width: 120px; 
+    border: 1px solid #0040FF; 
+    background: #81BEF7; 
+    color: black; 
+    font-size: 18px;
+} 
+.panel-heading .btn-success{
+    background-color: #2E64FE; 
+    color: white; 
+    border:none;
+}
+.panel-body .table-bordered{
+    margin-top: 20px ;
+}
+.panel-body .table-bordered tr th{
+    background: #81BEF7; 
+    color: black; 
+    text-align: center; 
+    font-size: 13px;
+   
+}
+.panel-body .table-bordered tbody{
+    font-size: 13px;
+}
+.panel-body .table-bordered .delete{
+    font-size: 13px;
+    background-color: red ;
+    color:white;
+}

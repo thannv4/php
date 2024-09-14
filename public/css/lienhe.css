@@ -1,0 +1,262 @@
+.title{
+  margin-top: 50px;
+}
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-top: -400px;
+    margin-left: 580px;
+    font-size: 50px;
+
+}
+p{
+  font-size: 25px;
+}
+#icon1 ul{
+    margin: 0px;
+    margin-left: 365px;
+}
+#icon1 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 445px;
+   
+}
+#icon1 ul li a{
+	color: red;
+	font-size: 20px;
+}
+#icon2 ul{
+    margin: 0px;
+    margin-left: 365px;
+}
+#icon2 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 165px;   
+}
+#icon2 ul li a{
+  color: red;
+  font-size: 20px;
+}
+#icon3 ul{
+    margin: 0px;
+    margin-left: 365px;
+}
+#icon3 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 27px 0px 210px; 
+}
+#icon3 ul li a{
+  color: red;
+  font-size: 20px;
+}
+#dc1 ul{
+    margin: 0px;
+    margin-left: 300px;
+    margin-top: 50px;
+    font-size: 20px;
+
+}
+#dc1 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 440px ;
+  
+}
+#dc1 ul li a{
+	text-decoration: none;
+   font-family: 'Barlow Condensed', sans-serif;
+    color: black;
+    
+}
+#dc2 ul{
+    margin: 0px;
+    margin-left: 300px;
+    margin-top: 50px;
+    font-size: 20px;
+
+}
+#dc2 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 30px ;
+  
+}
+#dc2 ul li a{
+	text-decoration: none;
+   font-family: 'Barlow Condensed', sans-serif;
+    color: black; 
+}
+
+#sdt1 ul{
+    margin: 0px;
+    margin-left: 350px;
+}
+#sdt1 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 425px;
+   margin-top: 5px;
+   
+}
+#sdt1 ul li a{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+#sdt2 ul{
+    margin: 0px;
+    margin-left: 350px;
+}
+#sdt2 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 115px;
+   margin-top: 5px;
+   
+}
+#sdt2 ul li a{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+#sdt3 ul{
+    margin: 0px;
+    margin-left: 350px;
+}
+#sdt3 ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 0px 0px 140px;
+   margin-top: 5px;
+}
+#sdt3 ul li a{
+	text-decoration: none;
+	color: red;
+	font-size: 20px;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+hr {
+    background: black;
+    border: 0;
+    height: 2px;
+    margin-right: 200px;
+    margin-top: 140px;
+    width: 350px;
+}
+#emai ul{
+    margin: 0px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#email ul li {
+    list-style: none;
+    float: left;
+   margin-left: 830px;
+}
+#email ul li a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+	font-family: 'Barlow Condensed', sans-serif;
+}
+#email ul li a:hover{
+  color: lime;
+  
+}
+#fb ul{
+    margin: 0px;
+    margin-left: 470px;
+    margin-bottom: 60px;
+}
+#fb ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 27px 0px 290px;
+}
+#fb ul li a{
+	color: blue;
+	font-size: 30px;
+}
+#fb ul li a:hover{
+  color: lime;
+  
+}
+#twiter ul{
+    margin: 0px;
+    margin-bottom: 60px;
+}
+#twiter ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 40px;
+}
+#twiter ul li a{
+	color: #00F5FF;
+	font-size: 30px;
+}
+#twiter ul li a:hover{
+  color: lime;
+  
+}
+#gg ul{
+    margin: 0px;
+    margin-bottom: 60px;
+}
+#gg ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 30px;
+}
+#gg ul li a{
+	color: #FF0000;
+	font-size: 30px;
+}
+#gg ul li a:hover{
+  color: lime;
+}
+#inst ul{
+    margin: 0px;
+    margin-bottom: 60px;
+}
+#inst ul li {
+    list-style: none;
+    float: left;
+   padding: 0px 30px;
+}
+#inst ul li a{
+	color: #FF00CC;
+	font-size: 30px;
+}
+#inst ul li a:hover{
+  color: lime;
+  
+}
+
+h1{
+  font-family: tahoma;
+}
+#ttin ul{
+    margin: 0px;
+    margin-left: 460px;
+    margin-top: 50px;
+    font-size: 20px;
+
+}
+#ttin ul li {
+   list-style: none;
+   float: left;
+   padding: 20px 190px;
+   margin-left: 120px;
+   text-align:center;
+  
+}
+#ttin ul li a{
+	text-decoration: none;
+  font-family: 'Barlow Condensed', sans-serif;
+  color: black;   
+}

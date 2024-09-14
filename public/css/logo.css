@@ -1,0 +1,38 @@
+.haha {
+    width: 500px;
+    height: 40px;
+    margin-left: 450px;
+}
+
+.c1 {
+    width: 250px;
+}
+
+.daylogo img {
+    margin-top: 70px;
+    height: 80px !important;
+    width: 80px !important;
+    margin-left: 75px;
+}
+
+.daylogo p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.sanpham {
+    margin: 10px;
+}
+
+.loailaptop {
+    margin-top: 50px;
+    /* border: 1px solid gray; */
+    box-shadow: 8px -5px 5px #3A01DF;
+    line-height: 30px;
+    margin-left: 20px;
+}
+
+.loailaptop h1 {
+    margin-left: 20px;
+    font-size: 30px;
+}
